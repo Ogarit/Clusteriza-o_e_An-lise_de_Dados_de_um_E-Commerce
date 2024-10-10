@@ -34,7 +34,7 @@ Este projeto demonstra o uso de técnicas de clusterização para análise de da
 
 # jupyter notebook cluster.ipynb
 - `desafio_7.ipynb`: Notebook principal contendo a análise de clusterização.
-- `data/`: Diretório para o conjunto de dados utilizado na análise.
+- `data.csv`: Dados utilizados.
 
 # Dados
 Dados obtidos no Kagle: https://www.kaggle.com/datasets/carrie1/ecommerce-data.
