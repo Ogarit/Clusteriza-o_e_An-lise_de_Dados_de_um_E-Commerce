@@ -38,3 +38,12 @@ Este projeto demonstra o uso de técnicas de clusterização para análise de da
 
 # Dados
 Dados obtidos no Kagle: https://www.kaggle.com/datasets/carrie1/ecommerce-data.
+
+- InvoiceNo: Identificação da transação
+- StockCode: Código de estoque do produto
+- Description: Descrição do produto
+- Quantity: Quantidade de produtos por transação
+- InvoiceDate: Data da transação
+- UnitPrice: Preço unitário do produto
+- CustomerID: Identificação do cliente
+- Country: País de origem da transação
