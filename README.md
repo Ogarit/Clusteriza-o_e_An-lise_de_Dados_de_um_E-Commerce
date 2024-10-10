@@ -23,7 +23,7 @@ Este projeto demonstra o uso de técnicas de clusterização para análise de da
    ```bash
    git clone https://github.com/Ogarit/Clusteriza-o_e_Analise_de_Dados_de_um_E-Commerce.git
    ```
-2. Descompacte o data.rar utilizando o WinRAR ou outro software semelhante.
+2. Descompacte o `data.rar` utilizando o WinRAR ou outro software semelhante.
 3. Instale as dependências necessárias:
    ```bash
    pip install pandas numpy matplotlib seaborn plotly scikit-learn yellowbrick
