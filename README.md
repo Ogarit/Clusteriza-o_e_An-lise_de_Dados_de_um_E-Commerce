@@ -23,18 +23,19 @@ Este projeto demonstra o uso de técnicas de clusterização para análise de da
    ```bash
    git clone https://github.com/Ogarit/Clusteriza-o_e_Analise_de_Dados_de_um_E-Commerce.git
    ```
-2. Instale as dependências necessárias:
+2. Descompacte o data.rar utilizando o WinRAR ou outro software semelhante.
+3. Instale as dependências necessárias:
    ```bash
    pip install pandas numpy matplotlib seaborn plotly scikit-learn yellowbrick
    ```
-3. Abra o Jupyter notebook para rodar a análise:
+4. Abra o Jupyter notebook para rodar a análise:
    ```bash
    jupyter notebook cluster.ipynb
    ```
 
 # jupyter notebook cluster.ipynb
 - `desafio_7.ipynb`: Notebook principal contendo a análise de clusterização.
-- `data.csv`: Dados utilizados.
+- `data.rar`: Dados utilizados compactados.
 
 # Dados
 Dados obtidos no Kagle: https://www.kaggle.com/datasets/carrie1/ecommerce-data.
